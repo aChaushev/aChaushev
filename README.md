@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
+⚡ GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aChaushev&layout=compact&theme=dark&hide_border=true&bg_color=0e1117)  [![GitHub Streak](https://streak-stats.demolab.com/?user=aChaushev&theme=dark&hide_border=true&background=0e1117)](https://git.io/streak-stats)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=aChaushev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!-- ![aChaushev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aChaushev&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues,contribs) -->
 
