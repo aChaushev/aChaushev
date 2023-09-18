@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 
 | **Course**                                                                                  | **Link**                                                                    |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4239/html-and-css-september-2023"> HTML & CSS </a>    | <a href="#"> Currently studying </a> |
-| <a href="https://softuni.bg/trainings/4240/js-front-end-october-2023"> JS Front-End </a>    | <a href="#"> Currently studying </a> |
+| <a href="https://softuni.bg/trainings/4239/html-and-css-september-2023"> HTML & CSS </a>    |  Currently studying </a> |
+| <a href="https://softuni.bg/trainings/4240/js-front-end-october-2023"> JS Front-End </a>    |  Currently studying </a> |
 
 </td>
 <tr>
