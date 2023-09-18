@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- ![](https://komarev.com/ghpvc/?username=aChaushev&color=yellow) -->
 
-### Аrchitect at present and a future Software Engineer! Currently studying Java and also Front-End development.
+### A future Software Engineer! Currently studying Java and also Front-End development.
 ## ⚡ GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aChaushev&layout=compact&theme=dark&hide_border=true&bg_color=0e1117)  [![GitHub Streak](https://streak-stats.demolab.com/?user=aChaushev&theme=dark&hide_border=true&background=0e1117)](https://git.io/streak-stats)
