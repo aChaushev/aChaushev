@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Alex 👋
 
 <!--
 **aChaushev/aChaushev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr>
+[![trophy](https://github-profile-trophy.vercel.app/?aChaushev=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
