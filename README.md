@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- ![aChaushev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aChaushev&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues,contribs) -->
 
-## 💫 Skills 
+## 💫 Tech Stack 
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=light)](https://skillicons.dev)
 
