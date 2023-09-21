@@ -25,9 +25,19 @@ Here are some ideas to get you started:
 
 <!-- ![aChaushev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aChaushev&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues,contribs) -->
 
-## 💫 Tech Stack 
+## 💫 Tech Stack and Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=light)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,autocad,sketchup,ps" />
+  </a>
+</p>
 
 ## 📚 Education
 # <p align="center"> Courses from the main program in SoftUni <p>
