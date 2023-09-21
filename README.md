@@ -1,4 +1,4 @@
-## 👋 Hi there I'm Alex 🔭
+<h2 align="left">👋 Hi there I'm Alex 🔭</h2>
 
 <!--
 **aChaushev/aChaushev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,16 +16,20 @@ Here are some ideas to get you started:
 -->
 <!-- ![](https://komarev.com/ghpvc/?username=aChaushev&color=yellow) -->
 
-### Architect at present and future Software Engineer. Currently studying Java and Front-End development.
-## ⚡ GitHub Stats
+<h3 align="left">Architect at present and future Software Engineer. Currently studying Java and Front-End development.</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aChaushev&layout=compact&theme=dark&hide_border=true&bg_color=0e1117)  [![GitHub Streak](https://streak-stats.demolab.com/?user=aChaushev&theme=dark&hide_border=true&background=0e1117)](https://git.io/streak-stats)
+<h2 align="left">⚡ GitHub Stats</h2>
+
+<p align="left">
+    <img height="165em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aChaushev&layout=compact&theme=dark&hide_border=true&bg_color=0e1117" />
+    <img height="165em align="center" src="https://streak-stats.demolab.com/?user=aChaushev&theme=dark&hide_border=true&background=0e1117" />
+</p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=aChaushev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- ![aChaushev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aChaushev&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues,contribs) -->
 
-## 💫 Tech Stack and Skills
+<h2 align="left">💫 Tech Stack and Skills</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -39,14 +43,15 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 📚 Education
-# <p align="center"> Courses from the main program in SoftUni <p>
+<h2 align="left">📚 Education</h2>
+
+<h1 align="center">Courses from the main program in SoftUni</h1>
 
 <p align="center">
 <img src="https://codeweek-s3.s3.amazonaws.com/event_picture/SoftUni-Logo-Flat.png" alt="Software University Logo"/>
 <p>
   
-<h2 align="center"> 📑 Certificates </h2>
+<h2 align="center">📑 Certificates</h2>
 
 <table align="center">
 <tr>
