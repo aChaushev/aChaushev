@@ -1,4 +1,8 @@
-<h2 align="left">👋 Hi there I'm Alex 🔭</h2>
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Alex....+🔭&center=true&size=30&color=33d9b2">
+  </a>
+</h2>
 
 <!--
 **aChaushev/aChaushev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +18,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![](https://komarev.com/ghpvc/?username=aChaushev&color=yellow) -->
 
-<h3 align="left">Architect at present and future Software Engineer. Currently studying Java and Front-End development.</h3>
+<p align="center">Hi, I'm Alex, an architect learning software engineering. 
+    <br>
+    <br>
+    🔬 I'm currently studying Java and Front-End development at SoftUni.
+    <br>
+    💻 I love writing code and learn anythings about it.
+    <br>
+    🌐 I like designing things and being creative.
+    <br>
+    📚 When I am free, I read fantasy and fiction novels.   
+<p>
+    
+<hr>
 
-<h2 align="left">⚡ GitHub Stats</h2>
+<h2 align="left">⚡ Stats</h2>
 
 <p align="left">
     <img height="165em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aChaushev&layout=compact&theme=dark&hide_border=true&bg_color=0e1117" />
@@ -29,23 +44,26 @@ Here are some ideas to get you started:
 
 <!-- ![aChaushev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aChaushev&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues,contribs) -->
 
-<h2 align="left">💫 Tech Stack and Skills</h2>
+<hr>
 
+<h2 align="left">💫 Tech Stack</h2>
+ <h3>👨‍💻 Programming and Markup Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,html,css" />
   </a>
 </p>
-
+   <h3>💻 Software and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,autocad,sketchup,ps" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,autocad,sketchup,ps" /> 
+    <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" /> 
   </a>
 </p>
 
-<h2 align="left">📚 Education</h2>
+<hr>
 
-<h1 align="center">Courses from the main program in SoftUni</h1>
+<h2 align="center">🎓 Courses from the main program in SoftUni 🎓</h2>
 
 <p align="center">
 <img src="https://codeweek-s3.s3.amazonaws.com/event_picture/SoftUni-Logo-Flat.png" alt="Software University Logo"/>
