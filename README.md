@@ -28,7 +28,9 @@ Here are some ideas to get you started:
     <br>
     🌐 I like designing things and being creative.
     <br>
-    📚 When I am free, I read fantasy and fiction novels.   
+    📚 When I am free, I read fantasy and fiction novels.
+    <br>
+    📐 "The difference between something good and something great is attention to detail."-C.S.
 <p>
     
 <hr>
