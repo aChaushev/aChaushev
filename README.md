@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode,autocad,sketchup,ps" /> 
-    <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" /> 
+    <!-- <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" /> --> 
   </a>
 </p>
 
