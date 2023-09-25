@@ -4,21 +4,6 @@
   </a>
 </h2>
 
-<!--
-**aChaushev/aChaushev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">Hi, I'm Alex, an architect learning software engineering. 
     <br>
     <br>
@@ -42,25 +27,26 @@ Here are some ideas to get you started:
     <img height="165em align="center" src="https://streak-stats.demolab.com/?user=aChaushev&theme=dark&hide_border=true&background=0e1117" />
 </p>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=aChaushev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!-- ![aChaushev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aChaushev&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues,contribs) -->
-
 <hr>
 
 <h2 align="left">💫 Tech Stack</h2>
  <h3>👨‍💻 Programming and Markup Languages</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-  </a>
+  <a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
 </p>
    <h3>💻 Software and Tools</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,autocad,sketchup,ps" /> 
-    <!-- <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" /> --> 
-  </a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a> 
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> 
+  <a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription"><img src="https://skillicons.dev/icons?i=autocad" /></a> 
+  <a href="https://www.sketchup.com/"><img src="https://skillicons.dev/icons?i=sketchup" /></a> 
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a> 
+  <a href="https://www.canva.com/"><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" /></a>
+  <a href="https://lumion.com/"><img width="47"  src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7c9b5711-82d5-43d1-a2d7-35de3ea5adac.jpeg?auto=format,compress&size=150" /></a> 
+  
 </p>
 
 <hr>
