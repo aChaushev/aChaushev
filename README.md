@@ -44,8 +44,9 @@
   <a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription"><img src="https://skillicons.dev/icons?i=autocad" /></a> 
   <a href="https://www.sketchup.com/"><img src="https://skillicons.dev/icons?i=sketchup" /></a> 
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a> 
-  <a href="https://www.canva.com/"><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" /></a>
-  <a href="https://lumion.com/"><img width="47"  src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7c9b5711-82d5-43d1-a2d7-35de3ea5adac.jpeg?auto=format,compress&size=150" /></a> 
+  <a href="https://lumion.com/"><img width="46" src="https://designshop.hu/_assets/img/upload/big_262.jpg" /></a>
+<!--   <a href="https://www.canva.com/"><img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" /></a> -->
+   
   
 </p>
 
