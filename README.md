@@ -23,8 +23,8 @@
 <h2 align="left">⚡ Stats</h2>
 
 <p align="left">
-    <img height="165em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aChaushev&layout=compact&theme=dark&hide_border=true&bg_color=0e1117" alt="Github Language Stats" />
-    <img height="165em align="center" src="https://streak-stats.demolab.com/?user=aChaushev&theme=dark&hide_border=true&background=0e1117" alt="Github Streak Stats" />
+    <img height="165em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aChaushev&layout=compact&theme=transparent&hide_border=true" alt="Github Language Stats" />
+    <img height="165em align="center" src="https://streak-stats.demolab.com/?user=aChaushev&theme=transparent&hide_border=true" alt="Github Streak Stats" />  
 </p>
 
 <hr>
@@ -42,8 +42,8 @@
   <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a> 
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode"  alt="Visual Studio Code" /></a> 
   <a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription"><img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" /></a> 
-  <a href="https://www.sketchup.com/"><img src="https://skillicons.dev/icons?i=sketchup" alt="SketchUp" /></a> 
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" /></a> 
+  <a href="https://www.sketchup.com/"><img src="https://skillicons.dev/icons?i=sketchup" alt="SketchUp" /></a> 
   <a href="https://lumion.com/"><img width="46" src="https://designshop.hu/_assets/img/upload/big_262.jpg" alt="Lumion" /></a>
 <!--   <a href="https://www.canva.com/"><img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" /></a> -->
    
