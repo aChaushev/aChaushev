@@ -24,7 +24,7 @@
 
 <p align="left">
     <img height="165em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aChaushev&layout=compact&theme=transparent&hide_border=true" alt="Github Language Stats" />
-    <img height="165em align="center" src="https://streak-stats.demolab.com/?user=aChaushev&theme=transparent&hide_border=true" alt="Github Streak Stats" />  
+    <img height="165em align="center" src="https://streak-stats.demolab.com?user=aChaushev&theme=transparent&hide_border=true" alt="Github Streak Stats" /> 
 </p>
 
 <hr>
