@@ -69,22 +69,22 @@
 <tr>
 <td>
 
-| **Course**                                                            | **Link**                                                   |
+| **Course**                                                            | **Certificate**                                            |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/3868/programming-basics-with-java-september-2022"> Programming Basics with Java </a>               | <a href="https://softuni.bg/certificates/details/143281/ebe89bd5"> Click here</a> |
 | <a href="https://softuni.bg/trainings/3951/programming-fundamentals-with-java-january-2023"> Programming Fundamentals with Java </a>     | <a href="https://softuni.bg/certificates/details/167604/bd1dd247"> Click here</a> |
 | <a href="https://softuni.bg/trainings/4100/java-advanced-may-2023"> Java Advanced </a>                                                   | <a href="https://softuni.bg/certificates/details/174504/61d24f2f"> Click here</a> |
 | <a href="https://softuni.bg/trainings/4101/java-oop-june-2023"> Java OOP </a>                                                            | <a href="https://softuni.bg/certificates/details/181396/c9f1c5a2"> Click here</a> |
-| <a href="#"> Java Databases Basics - MySQL </a>                                                                                          |  Coming next </a> | 
-| <a href="#"> Java Databases Basics - Spring Data </a>                                                                                    |  Coming next </a> | 
+| <a href="#"> Java Databases Basics - MySQL </a>                                                                                          |  Coming next  | 
+| <a href="#"> Java Databases Basics - Spring Data </a>                                                                                    |  Coming next  | 
 
 </td>
 <td>
 
-| **Course**                                                                                  | **Link**                                                                    |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4239/html-and-css-september-2023"> HTML & CSS </a>    |  Currently studying </a> |
-| <a href="https://softuni.bg/trainings/4240/js-front-end-october-2023"> JS Front-End </a>    |  Currently studying </a> |
+| **Course**                                                                                  | **Certificate**                                                            |
+| ------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4239/html-and-css-september-2023"> HTML & CSS </a>    |  Currently studying  |
+| <a href="https://softuni.bg/trainings/4240/js-front-end-october-2023"> JS Front-End </a>    |  Currently studying  |
 
 </td>
 <tr>
