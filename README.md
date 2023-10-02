@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&size=30&pause=1000&color=006AFF&center=true&width=435&lines=Hello%2C+World!" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=435&size=30&pause=1000&color=006AFF&center=true&vCenter=true&width=435&lines=Hello+world!" />
 </h2>
 
 <p align="center">Hi, I'm Alex, an architect learning software engineering. 
@@ -12,6 +12,7 @@
     🌐 I like designing things and being creative.
     <br>
     📚 When I am free, I read fantasy and fiction novels.
+    <br>
     <br>
     📐 "The difference between something good and something great is attention to detail."-C.S.
 </p>
