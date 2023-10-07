@@ -14,7 +14,7 @@
     📚 When I am free, I read fantasy and fiction novels.
     <br>
     <br>
-    📐 "The difference between something good and something great is attention to detail."-C.S.
+    📐 Мy favorite quote: "The difference between something good and something great is attention to detail."-C.S.
 </p>
     
 <hr>
