@@ -49,7 +49,7 @@
 
 <hr>
 
-<h2 align="center">🎓 Courses from the main program in SoftUni 🎓</h2>
+<h2 align="center">🎓 Courses from the main program of SoftUni 🎓</h2>
 
 <p align="center">
 <img src="https://codeweek-s3.s3.amazonaws.com/event_picture/SoftUni-Logo-Flat.png" alt="Software University Logo" />
