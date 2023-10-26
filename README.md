@@ -36,7 +36,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"  alt="CSS" /></a>
 </p>
-   <h3>💻 Software and Tool</h3>
+   <h3>💻 Software and Tools</h3>
 <p align="left">
   <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a> 
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode"  alt="Visual Studio Code" /></a> 
