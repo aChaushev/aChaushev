@@ -80,7 +80,7 @@
   
   | **Course**                                                                                  | **Certificate**                                                            |
   | ------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------- |
-  | <a href="https://softuni.bg/trainings/4239/html-and-css-september-2023"> HTML & CSS </a>    |  Currently studying  |
+  | <a href="https://softuni.bg/trainings/4239/html-and-css-september-2023"> HTML & CSS </a>    |  Click here  |
   | <a href="https://softuni.bg/trainings/4240/js-front-end-october-2023"> JS Front-End </a>    |  Currently studying  |
   
   </td>
