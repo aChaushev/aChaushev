@@ -29,12 +29,13 @@
 <hr>
 
 <h2 align="left">💫 Tech Stack</h2>
- <h3>👨‍💻 Programming and Markup Languages</h3>
+ <h3>👨‍💻 Programming, Markup Languages and Databases</h3>
 <p align="left">
   <a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"  alt="CSS" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql"  alt="MySQL" /></a>
 </p>
    <h3>💻 Software and Tools</h3>
 <p align="left">
@@ -44,6 +45,7 @@
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" /></a> 
   <a href="https://www.sketchup.com/"><img src="https://skillicons.dev/icons?i=sketchup" alt="SketchUp" /></a> 
   <a href="https://lumion.com/"><img width="46" src="https://designshop.hu/_assets/img/upload/big_262.jpg" alt="Lumion" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman"  alt="Postman" /></a>
 <!--   <a href="https://www.canva.com/"><img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" /></a> -->  
 </p>
 
