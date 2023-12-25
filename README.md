@@ -29,7 +29,7 @@
 <hr>
 
 <h2 align="left">💫 Tech Stack</h2>
- <h3>👨‍💻 Programming, Markup Languages and Databases</h3>
+ <h3>👨‍💻 Programming, Markup and Database Languages</h3>
 <p align="left">
   <a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
