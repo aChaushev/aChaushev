@@ -45,6 +45,7 @@
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" /></a> 
   <a href="https://www.sketchup.com/"><img src="https://skillicons.dev/icons?i=sketchup" alt="SketchUp" /></a> 
   <a href="https://lumion.com/"><img width="46" src="https://designshop.hu/_assets/img/upload/big_262.jpg" alt="Lumion" /></a>
+  <a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate"  alt="Hibernate" /></a>
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman"  alt="Postman" /></a>
 <!--   <a href="https://www.canva.com/"><img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" /></a> -->  
 </p>
