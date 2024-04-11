@@ -76,7 +76,7 @@
   | <a href="https://softuni.bg/trainings/4100/java-advanced-may-2023"> Java Advanced </a>                                                   | <a href="https://softuni.bg/certificates/details/174504/61d24f2f"> Click here</a> |
   | <a href="https://softuni.bg/trainings/4101/java-oop-june-2023"> Java OOP </a>                                                            | <a href="https://softuni.bg/certificates/details/181396/c9f1c5a2"> Click here</a> |
   | <a href="https://softuni.bg/trainings/4365/mysql-january-2024"> Java Databases Basics - MySQL </a>                                       | <a href="https://softuni.bg/certificates/details/202753/7a6703e9"> Click here</a> | 
-  | <a href="https://softuni.bg/trainings/4366/spring-data-february-2024"> Java Databases Basics - Spring Data </a>                          |  Currently studying  |
+  | <a href="https://softuni.bg/trainings/4366/spring-data-february-2024"> Java Databases Basics - Spring Data </a>                          | <a href="https://softuni.bg/certificates/details/209324/6a85f9f8"> Click here</a> | 
   
   </td>
   <td>
