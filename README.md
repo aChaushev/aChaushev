@@ -94,7 +94,9 @@
 
 <hr>
 
-♾️<h1 align="center">![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wwlckmbmci7zrctiaq73lpyudq&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=006aff&bar_color_cover=true)
+♾️<h1 align="center">![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wwlckmbmci7zrctiaq73lpyudq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=006aff&bar_color_cover=true)
+
+
 </h1>
 
 
